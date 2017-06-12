@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This project tackles processes, methods and techniques used throughout history of culture and science
   in an attempt to shed light on "life cycle" of things. Strategies employed to allow voiceless objects
   narrate their biography are ranging from literary genres like "it narratives" all the way through to "hard"
-  technologies like RFID - and are being examined by this research project, as well as their similarities and 
+  technologies like RFID - and are being examined by this research project, including their similarities and 
   differences.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
