@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Cyclography of Things!"
 date:   2017-06-12 09:40:43 +0000
 categories: jekyll update
 ---
