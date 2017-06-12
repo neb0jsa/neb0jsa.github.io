@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: Cyclography of Things
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This project tackles processes, methods and techniques used throughout history of culture and science in an attempt to shed light on the "life cycle" of things.
+  This research aims to examine strategies employed to allow voiceless objects narrate their biography are ranging from literary genres like "it narratives" all the way through to "hard" technologies like RFID,
+  as well as their similarities and differences.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
